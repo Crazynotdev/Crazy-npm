@@ -1,4 +1,5 @@
-go package main
+go
+package main
 import "crazy/cmd"
 
 func main() {
